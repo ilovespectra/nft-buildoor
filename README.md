@@ -1,21 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Not sure how to upgrade to candy machine v2, but i'm receiving this error in chrome:
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/94848716/221422079-6e8d2dd8-413a-465f-9f4f-ef14100d841c.png">
 
-## 🎨 Create the BLD token & minting UI
 
-Time to get back to shipping our custom NFT staking app we've developed in Core 1. We'll use our learnings with the token program and the candy machine to build out our app.
-
-### Install dependencies
-
-```bash
-npm install
-```
-
-### Run the app
-
-- Create BLD token using - ```npm run create-bld-token```
-- Create candy machine by placing the NFTs in assets folders and run  - ```sugar launch```
-- Create the minting UI by running - ```npm run dev```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-<i><i style="color:red">*</i> Remember to replace the candy machine address in <b>Connected.tsx</b> file with yours. </i>
+any help is much appreciated 
