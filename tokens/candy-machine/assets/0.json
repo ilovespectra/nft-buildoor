@@ -1,0 +1,28 @@
+{
+    "name": "FloralCoat",
+    "symbol": "CLTH",
+    "description": "Floral Coat in a street environment",
+    "image": "0.png",
+    "attributes": [
+        {
+            "trait_type": "Environment",
+            "value": "Street"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Coat"
+        },
+        {
+            "trait_type": "Colors",
+            "value": "Green/Floral"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "0.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

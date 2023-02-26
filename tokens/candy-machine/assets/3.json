@@ -1,0 +1,28 @@
+{
+    "name": "JussPUFF",
+    "symbol": "CLTH",
+    "description": "A bizzare mess of puff",
+    "image": "3.png",
+    "attributes": [
+        {
+            "trait_type": "Environment",
+            "value": "Studio"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Puff Only"
+        },
+        {
+            "trait_type": "Colors",
+            "value": "Green/White/Fur"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "3.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

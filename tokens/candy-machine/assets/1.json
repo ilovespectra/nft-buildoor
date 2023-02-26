@@ -1,0 +1,28 @@
+{
+    "name": "FreshPrince",
+    "symbol": "CLTH",
+    "description": "A retro streetwear outfit",
+    "image": "1.png",
+    "attributes": [
+        {
+            "trait_type": "Environment",
+            "value": "Studio"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Outfit"
+        },
+        {
+            "trait_type": "Colors",
+            "value": "Red/Green/Patterns"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "1.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

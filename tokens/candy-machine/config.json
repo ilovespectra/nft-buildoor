@@ -1,0 +1,20 @@
+{
+  "number": 6,
+  "symbol": "CLTH",
+  "sellerFeeBasisPoints": 100,
+  "isMutable": true,
+  "isSequential": false,
+  "creators": [
+    {
+      "address": "HM87sbdUufeE7J4XdCEGSriz9t7utBJakTpPN5pkHqzt",
+      "share": 100
+    }
+  ],
+  "uploadMethod": "bundlr",
+  "awsConfig": null,
+  "nftStorageAuthToken": null,
+  "shdwStorageAccount": null,
+  "pinataConfig": null,
+  "hiddenSettings": null,
+  "guards": null
+}

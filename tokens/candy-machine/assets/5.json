@@ -1,0 +1,28 @@
+{
+    "name": "RainPuff",
+    "symbol": "CLTH",
+    "description": "A big yellow rain puffy",
+    "image": "5.png",
+    "attributes": [
+        {
+            "trait_type": "Environment",
+            "value": "Studio"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Outfit"
+        },
+        {
+            "trait_type": "Colors",
+            "value": "Red/Green/Patterns"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "5.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

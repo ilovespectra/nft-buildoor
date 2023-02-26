@@ -1,0 +1,66 @@
+{
+  "program": {
+    "candyMachine": "2eicuMsWPRmZN7Zy9TVC8UYReQicXbx4UKzLWLEnxcLx",
+    "candyGuard": "",
+    "candyMachineCreator": "4scpVyxHE4gSvjTBoAC36mmMBfDLD8ChvAe8HehHZsu9",
+    "collectionMint": "HEtZ1Li4q8HqqaGKehN9vbGVxPgJ51DqqLLqpvePKGdG"
+  },
+  "items": {
+    "-1": {
+      "name": "CLTHing Collection",
+      "image_hash": "ac8ac2f4902b85866f32495e3e948a5f3552d82dfbe16ced648dcda873b53728",
+      "image_link": "https://arweave.net/GDPPlOE0qO42NaqGPTplSwB2T8KPjwqgmClkJG-_njg?ext=png",
+      "metadata_hash": "be7e3594bdd93ced6813cba42d9364ac612e3e99725ce4d4d7c487797bacc7dd",
+      "metadata_link": "https://arweave.net/VeS87JftC89lrOqD1da7jvKBPGB6rcnd3y_v6Yriw-M",
+      "onChain": true
+    },
+    "0": {
+      "name": "FloralCoat",
+      "image_hash": "af90db7ac6491bcff9fd3d340eb40cda6578f67a4028bd744d1d8124070c44e0",
+      "image_link": "https://arweave.net/KJqw_dNAQtJyS5OrZVonHSs7MUemvDcf2oHPw9OLfrU?ext=png",
+      "metadata_hash": "da8dbeb1738734b01deed9299b91230a2dc9e3e85c42f7eeb21b900c2ec83bb6",
+      "metadata_link": "https://arweave.net/NvpvlimkBkHQGpdw2CYnJISXm5pnSp0B_Gc15C8jSj4",
+      "onChain": true
+    },
+    "1": {
+      "name": "FreshPrince",
+      "image_hash": "38a2e30f2d6b4c67fad1b100c3cc109ea5a81a7ac73507d8dae14755e6285dd6",
+      "image_link": "https://arweave.net/XTR0x7IsXsPY2HxxKuHhzkXPzDGcUSIxyiQbRotviVk?ext=png",
+      "metadata_hash": "6d3de3ff4f242d97d4eae8fa9b6cfa261412c69ba43157d6bc3a5fd320b13dd4",
+      "metadata_link": "https://arweave.net/nKoeqdSIiZFVBHwDJK1tm6mqwBxdzN8u0znMPuJXfUM",
+      "onChain": true
+    },
+    "2": {
+      "name": "HelmetPuffy",
+      "image_hash": "068419c35295b4d48bae21e5d78a97dbee4d8faa3106d16298f11189efc65686",
+      "image_link": "https://arweave.net/vpgmLYkzurr_VNfIKOLmemeltFPq9AApZ6lD1agG_5I?ext=png",
+      "metadata_hash": "1ce8744f79828ecf16a850c7d6653693c6ba4bcb537f5564891b48d3881b72e4",
+      "metadata_link": "https://arweave.net/Ho1mprA6YwAieZVUEd3oDD5t2nWe_gF68PzN5mvqds8",
+      "onChain": true
+    },
+    "3": {
+      "name": "JussPUFF",
+      "image_hash": "c9bc7fc7466243dc8b5259b9be1551b3fc7a316d079b2b7d46cb9565f4c21073",
+      "image_link": "https://arweave.net/ev-xupo56QuqrgUkU_8fku_qrM_Vctzki8DCqCQVCDc?ext=png",
+      "metadata_hash": "679adc88af74042255eac162b8b21dc9dbcf9b96dd5fa4858a7594a85d2bf98b",
+      "metadata_link": "https://arweave.net/H7gaytsWQlZQKsP2lHd6NgLn-CJyC7mRFQ-v-bqDvwY",
+      "onChain": true
+    },
+    "4": {
+      "name": "LuxuryFit",
+      "image_hash": "3dd5eebefeb916c0fc96b4fa46309bf5d0ad942a2cd94cbd82bcaed4f5d214a1",
+      "image_link": "https://arweave.net/zzH6yOsNLQwyM-EFdVJrYlwWcAJBatcOIIYG2whOrow?ext=png",
+      "metadata_hash": "6470d2b44ecd0a47a57c3eee34898ac8ad4a07109ce1eb0376d0be7a341f71f1",
+      "metadata_link": "https://arweave.net/pnO501vQQP86ib5btdUdEZ3NMdwD5PqnSDtrEEMDsBE",
+      "onChain": true
+    },
+    "5": {
+      "name": "RainPuff",
+      "image_hash": "448b99d4d54c821e83e3e40341c7b60503134baea13d14dca08d2955012db7e7",
+      "image_link": "https://arweave.net/drEzK_IZEFaThGaIP_tR3PSIOujO22_qAU5yX8VJb0g?ext=png",
+      "metadata_hash": "94d78c8bcabee04986e68e1a51b0df8042a14938b5ca42bc7dc8c9ec50d5a24b",
+      "metadata_link": "https://arweave.net/zWf3LXQUy4a5bAEHMNknEKyQP2sWl4ToDV1tSf6s4hg",
+      "onChain": true
+    }
+  }
+}

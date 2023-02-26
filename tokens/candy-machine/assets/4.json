@@ -1,0 +1,28 @@
+{
+    "name": "LuxuryFit",
+    "symbol": "CLTH",
+    "description": "A high fashion streetwear outfit in a street environment",
+    "image": "4.png",
+    "attributes": [
+        {
+            "trait_type": "Environment",
+            "value": "Street"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Outfit"
+        },
+        {
+            "trait_type": "Colors",
+            "value": "Black/Yellow"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "4.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

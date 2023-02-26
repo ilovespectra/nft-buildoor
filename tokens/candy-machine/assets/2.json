@@ -1,0 +1,28 @@
+{
+    "name": "HelmetPuffy",
+    "symbol": "CLTH",
+    "description": "A green jacket with a space helmet for a face",
+    "image": "2.png",
+    "attributes": [
+        {
+            "trait_type": "Environment",
+            "value": "Studio"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Jacket/Helmet"
+        },
+        {
+            "trait_type": "Colors",
+            "value": "Green/Gold"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "2.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
