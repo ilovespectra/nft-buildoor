@@ -111,7 +111,7 @@ const Connected: FC = () => {
       <Button
         bgColor="accent"
         color="white"
-        maxW="380px"
+        maxW="381px"
         onClick={handleClick}
         isLoading={isMinting}
       >
@@ -120,5 +120,5 @@ const Connected: FC = () => {
     </VStack>
   )
 }
-
+// please
 export default Connected
