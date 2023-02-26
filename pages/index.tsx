@@ -15,7 +15,7 @@ const Home: NextPage = () => {
     <div className={styles.container}>
       <Head>
         <title>CLTHing Collection</title>
-        <meta name="The NFT Collection for Fashion" />
+        <meta name="The NFT Collection for Fashion Babes" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
