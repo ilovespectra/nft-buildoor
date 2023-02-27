@@ -32,7 +32,7 @@ const wallets = useMemo(
 
   return (
     <ConnectionProvider endpoint={url}>
-      <WalletProvider wallets={[phantom,solflare, coinbase, torus]}>
+      <WalletProvider wallets={[phantom, solflare, coinbase, torus]}>
         <WalletModalProvider>{children}</WalletModalProvider>
       </WalletProvider>
     </ConnectionProvider>
