@@ -5,7 +5,11 @@ import {
 } from "@solana/wallet-adapter-react"
 import { WalletModalProvider } from "@solana/wallet-adapter-react-ui"
 import { clusterApiUrl } from "@solana/web3.js"
-import { PhantomWalletAdapter } from "@solana/wallet-adapter-wallets"
+import { PhantomWalletAdapter,
+        SolflareWalletAdapter,
+        TorusWalletAdapter, 
+        CoinbaseWalletAdapter 
+} from "@solana/wallet-adapter-wallets"
 import { useMemo } from "react"
 require("@solana/wallet-adapter-react-ui/styles.css")
 
