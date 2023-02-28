@@ -72,7 +72,7 @@ const NewMint: NextPage<NewMintProps> = ({ mint }) => {
           onClick={handleClick}
         >
           <HStack>
-            <Text>stake my CLTHing</Text>
+            <Text>Stake my CLTHing</Text>
             <ArrowForwardIcon />
           </HStack>
         </Button>
