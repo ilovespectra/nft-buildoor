@@ -20,6 +20,7 @@ import { useConnection, useWallet } from "@solana/wallet-adapter-react"
 import {
   Metaplex,
   walletAdapterIdentity,
+  CandyMachine,
   CandyMachineV2
 } from "@metaplex-foundation/js"
 import { useRouter } from "next/router"
